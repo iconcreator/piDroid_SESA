@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">piDroid</string>
+    <string name="a_remote_data_logger">A Remote Data-Logger</string>
+    <string name="scan">scan</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="value">Value</string>
+    <string name="sensor_1">Sensor 1</string>
+    <string name="sensor_2">Sensor 2</string>
+    <string name="sensor_3">Sensor 3</string>
+    <string name="sensor_4">Sensor 4</string>
+</resources>
